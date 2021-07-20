@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Sunyard_as_SunMvst\1.0.0\SunRPA\androidPicker\src\main\AndroidManifest.xml:2:1-6:12
+INJECTED from E:\Sunyard_as_SunMvst\1.0.0\SunRPA\androidPicker\src\main\AndroidManifest.xml:2:1-6:12
+INJECTED from E:\Sunyard_as_SunMvst\1.0.0\SunRPA\androidPicker\src\main\AndroidManifest.xml:2:1-6:12
+	package
+		ADDED from E:\Sunyard_as_SunMvst\1.0.0\SunRPA\androidPicker\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from E:\Sunyard_as_SunMvst\1.0.0\SunRPA\androidPicker\src\main\AndroidManifest.xml
+		INJECTED from E:\Sunyard_as_SunMvst\1.0.0\SunRPA\androidPicker\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Sunyard_as_SunMvst\1.0.0\SunRPA\androidPicker\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+INJECTED from E:\Sunyard_as_SunMvst\1.0.0\SunRPA\androidPicker\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Sunyard_as_SunMvst\1.0.0\SunRPA\androidPicker\src\main\AndroidManifest.xml
+INJECTED from E:\Sunyard_as_SunMvst\1.0.0\SunRPA\androidPicker\src\main\AndroidManifest.xml
+INJECTED from E:\Sunyard_as_SunMvst\1.0.0\SunRPA\androidPicker\src\main\AndroidManifest.xml
+INJECTED from E:\Sunyard_as_SunMvst\1.0.0\SunRPA\androidPicker\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Sunyard_as_SunMvst\1.0.0\SunRPA\androidPicker\src\main\AndroidManifest.xml
+		ADDED from E:\Sunyard_as_SunMvst\1.0.0\SunRPA\androidPicker\src\main\AndroidManifest.xml
+		INJECTED from E:\Sunyard_as_SunMvst\1.0.0\SunRPA\androidPicker\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Sunyard_as_SunMvst\1.0.0\SunRPA\androidPicker\src\main\AndroidManifest.xml
+		ADDED from E:\Sunyard_as_SunMvst\1.0.0\SunRPA\androidPicker\src\main\AndroidManifest.xml
+		INJECTED from E:\Sunyard_as_SunMvst\1.0.0\SunRPA\androidPicker\src\main\AndroidManifest.xml
